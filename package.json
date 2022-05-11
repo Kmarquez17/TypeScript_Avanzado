@@ -1,0 +1,27 @@
+{
+  "name": "typescript-avanzado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmarquez17/TypeScript_Avanzado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kmarquez17/TypeScript_Avanzado/issues"
+  },
+  "homepage": "https://github.com/Kmarquez17/TypeScript_Avanzado#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^1.3.1"
+  }
+}
